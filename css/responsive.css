@@ -1,0 +1,1349 @@
+/*1025-1199*/
+@media only screen and (min-width: 1025px) and (max-width: 1199px){
+/*header area start*/
+.rightcontentbox h1{
+    font-size: 26px;
+}
+.writeofcontent h2{
+    font-size: 35px;
+}
+p.titlep {
+    font-size: 16px;
+}
+.listpmark p {
+    font-size: 14px;
+}
+
+/*header area end*/
+
+
+/*threestep start*/
+.stepbox {
+    
+    
+    padding: 40px;
+    margin: 5px;
+}
+p.tittlepstep {
+    font-size: 23px;
+    font-weight: 600;
+}
+p.descripp {
+    font-size: 15px;
+    color: #8e8e8e;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 47px;
+}
+
+
+/*three step end*/
+
+
+
+
+}
+
+/*992-1024*/
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+
+
+
+/*header area start*/
+.rightcontentbox h1{
+    font-size: 25px;
+}
+.writeofcontent h2{
+    font-size: 35px;
+}
+p.titlep {
+    font-size: 16px;
+}
+.listpmark p {
+    font-size: 14px;
+}
+
+/*header area end*/
+section.debthelpsection h1{
+    font-size: 25px;
+}
+.mumsdebtbox h2{
+    font-size: 25px;
+}
+/*threestep start*/
+.stepbox {
+    
+padding: 33px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 23px;
+    font-weight: 600;
+}
+p.descripp {
+    font-size: 15px;
+    color: #8e8e8e;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 47px;
+}
+section.threestep h1{
+    font-size: 25px;
+}
+
+/*three step end*/
+
+/*write of section start*/
+section.writeoff h1{
+    font-size: 25px;
+}
+.fouritembox{
+    padding-left: 75px;
+}
+/*write of section end*/
+section.questionsec h1{
+        font-size: 25px;
+    }
+
+
+    /*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 37px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 20px;
+    }
+
+    /*================privacy policy page end==============*/
+
+
+
+}
+/*768-991*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+    /*header area start*/
+.rightcontentbox h1{
+    font-size: 19px;
+}
+.writeofcontent h2{
+    font-size: 27px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+}
+p.titlep {
+    font-size: 13px;
+}
+.listpmark p {
+    font-size: 11px;
+    padding-bottom: 12px;
+    margin: 0;
+}
+.leftimagebox img {
+    width: 100%;
+}
+.checkqualify {
+    padding-top: 16px;
+}
+.checkqualify a{
+    padding: 17px 40px;
+}
+/*header area end*/
+
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 20px;
+}
+.textdiv p {
+    font-size: 15px;
+}
+
+
+/*debt help end*/
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 17px;
+    font-weight: 600;
+}
+p.descripp {
+    font-size: 12px;
+    color: #8e8e8e;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 20px;
+}
+span.number {
+    width: 40px;
+    height: 40px;
+    background: #ff9e9f;
+    font-size: 19px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+/*three step end*/
+.mumsdebtbox h2{
+    font-size: 20px;
+}
+/*write of section start*/
+section.writeoff h1{
+    font-size: 20px;
+}
+.fouritembox{
+    padding-left: 14px;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 52px;
+    padding: 11px;
+}
+.choose_image{
+    width: 53px;
+}
+.fouritembox h2{
+    font-size: 14px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 17px;
+}
+.txtandbtn p{
+    position: relative;
+}
+section.questionsec h1{
+        font-size: 25px;
+    }
+/*write of section end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 37px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 20px;
+    }
+
+    /*================privacy policy page end==============*/
+
+
+
+}
+/*576-767*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /*header start*/
+    
+    .col-xs-12.col-sm-6.leftimgcol {
+    display: none;
+}
+
+.col-xs-12.col-sm-6.rightcontentcol {
+    width: 100%;
+}
+
+.mobile_view_offer {
+    display: block;
+    height: 39%;
+}
+.writeofcontent {
+    display: none;
+}
+.moblie-view-image {
+    display: block;
+    text-align: center;
+}
+.rightcontentbox h1{
+    text-align: center;
+    font-size: 25px;
+}
+.banner-graphic02, .banner-inner-graphic02{
+    display: none;
+}
+/*header end*/
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 20px;
+}
+.textdiv p {
+    font-size: 15px;
+    position: relative;
+}
+.row.debtrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.debtcol {
+    width: 100%;
+    text-align: center;
+}
+.textdiv {
+    padding-left: 0;
+    padding-top: 24px;
+}
+.checkqualify a{
+    background: #fc8e8f;
+    color: black;
+}
+/*debt help end*/
+
+/*mums debt start*/
+.mumsdebtbox h2{
+    font-size: 34px;
+}
+.mumsdebtbox p{
+    padding: 0px 0px;
+}
+
+/*mums debt end*/
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 25px;
+    font-weight: 600;
+}
+p.descripp {
+    font-size: 18px;
+    color: #8e8e8e;
+    padding-bottom: 20px;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 23px;
+}
+span.number {
+    width: 45px;
+    height: 45px;
+    background: #ff9e9f;
+    font-size: 23px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+.row.threesteprow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.stepcol {
+    width: 100%;
+    padding-bottom: 44px;
+}
+/*three step end*/
+/*write of section start*/
+section.writeoff h1{
+    font-size: 20px;
+    padding-bottom: 0;
+}
+.fouritembox{
+    padding-left: 0;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 60px;
+    padding: 11px;
+}
+.choose_image{
+    width: 62px;
+}
+.fouritembox h2{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 32px;
+}
+.txtandbtn p{
+    position: relative;
+}
+.row.writofrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.writecol {
+    width: 100%;
+    padding-top: 50px;
+}
+.txtandbtn {
+    text-align: center;
+}
+/*write of section end*/
+/*accordion start*/
+    .accordion_head {
+        font-size: 16px;
+    }
+    section.questionsec h1{
+        font-size: 25px;
+    }
+    /*accordion end*/
+    .checkqualify.lastckp a {
+    background: #333333;
+    color: white;
+}
+/*footer start*/
+.logoandtextbox {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ffffff33;
+}
+.linknbox {
+    padding-top: 44px;
+}
+.row.footerrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.footercol {
+    width: 100%;
+}
+/*footer end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 30px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 20px;
+    }
+
+    /*================privacy policy page end==============*/
+
+
+}
+
+/*480-575*/
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    
+    /*header start*/
+    
+    .col-xs-12.col-sm-6.leftimgcol {
+    display: none;
+}
+
+.col-xs-12.col-sm-6.rightcontentcol {
+    width: 100%;
+}
+
+.mobile_view_offer {
+    display: block;
+    height: 43%;
+    margin-top: 7px;
+}
+.writeofcontent {
+    display: none;
+}
+.moblie-view-image {
+    display: block;
+    text-align: center;
+}
+.rightcontentbox h1{
+    text-align: center;
+    font-size: 25px;
+}
+.banner-graphic02, .banner-inner-graphic02{
+    display: none;
+}
+/*header end*/
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 20px;
+}
+.textdiv p {
+    font-size: 15px;
+    position: relative;
+}
+.row.debtrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.debtcol {
+    width: 100%;
+    text-align: center;
+}
+.textdiv {
+    padding-left: 0;
+    padding-top: 24px;
+}
+.checkqualify a{
+    background: #fc8e8f;
+    color: black;
+}
+/*debt help end*/
+/*mums debt start*/
+.mumsdebtbox h2{
+    font-size: 30px;
+}
+.mumsdebtbox p{
+    padding: 0px 0px;
+}
+
+/*mums debt end*/
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 11px;
+}
+p.descripp {
+    font-size: 18px;
+    color: #8e8e8e;
+    padding-bottom: 20px;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 20px;
+}
+span.number {
+    width: 45px;
+    height: 45px;
+    background: #ff9e9f;
+    font-size: 23px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+.row.threesteprow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.stepcol {
+    width: 100%;
+    padding-bottom: 44px;
+}
+/*three step end*/
+/*write of section start*/
+section.writeoff h1{
+    font-size: 18px;
+    padding-bottom: 0;
+}
+.fouritembox{
+    padding-left: 0;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 60px;
+    padding: 11px;
+}
+.choose_image{
+    width: 62px;
+}
+.fouritembox h2{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 32px;
+}
+.txtandbtn p{
+    position: relative;
+}
+.row.writofrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.writecol {
+    width: 100%;
+    padding-top: 50px;
+}
+/*write of section end*/
+/*accordion start*/
+    .accordion_head {
+        font-size: 16px;
+    }
+    section.questionsec h1{
+        font-size: 25px;
+    }
+    /*accordion end*/
+    .checkqualify.lastckp a {
+    background: #333333;
+    color: white;
+}
+/*footer start*/
+.logoandtextbox {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ffffff33;
+}
+.linknbox {
+    padding-top: 44px;
+}
+
+/*footer end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 30px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 17px;
+    }
+
+    /*================privacy policy page end==============*/
+
+
+}
+/*425-479*/
+@media only screen and (min-width: 425px) and (max-width: 479px) {
+    
+    /*header start*/
+    
+    .col-xs-12.col-sm-6.leftimgcol {
+    display: none;
+}
+
+.col-xs-12.col-sm-6.rightcontentcol {
+    width: 100%;
+}
+
+.mobile_view_offer {
+    display: block;
+    height: 43%;
+    margin-top: 7px;
+    padding: 10px 25px;
+}
+.writeofcontent {
+    display: none;
+}
+.moblie-view-image {
+    display: block;
+    text-align: center;
+}
+.rightcontentbox h1{
+    text-align: center;
+    font-size: 20px;
+}
+.banner-graphic02, .banner-inner-graphic02{
+    display: none;
+}
+.moblie-view-image img {
+    width: 385px;
+    height: 430px;
+}
+.mobile_view_offer h2{
+    font-size: 30px;
+}
+.mobile_view_offer p{
+    font-size: 13px;
+}
+/*header end*/
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 17px;
+}
+.textdiv p {
+    font-size: 15px;
+    position: relative;
+}
+.row.debtrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.debtcol {
+    width: 100%;
+    text-align: center;
+}
+.textdiv {
+    padding-left: 0;
+    padding-top: 24px;
+}
+.checkqualify a{
+    background: #fc8e8f;
+    color: black;
+}
+section.debthelpsection{
+    padding-top: 55px;
+}
+/*debt help end*/
+/*mums debt start*/
+.mumsdebtbox h2{
+    font-size: 27px;
+    padding-bottom: 28px;
+}
+.mumsdebtbox p{
+    padding: 0px 0px;
+}
+
+/*mums debt end*/
+
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 11px;
+}
+p.descripp {
+    font-size: 18px;
+    color: #8e8e8e;
+    padding-bottom: 20px;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 20px;
+}
+span.number {
+    width: 45px;
+    height: 45px;
+    background: #ff9e9f;
+    font-size: 23px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+.row.threesteprow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.stepcol {
+    width: 100%;
+    padding-bottom: 44px;
+}
+/*three step end*/
+/*write of section start*/
+section.writeoff h1{
+    font-size: 16px;
+    padding-bottom: 0;
+}
+.fouritembox{
+    padding-left: 0;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 60px;
+    padding: 11px;
+}
+.choose_image{
+    width: 62px;
+}
+.fouritembox h2{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 32px;
+}
+.txtandbtn p{
+    position: relative;
+}
+.row.writofrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.writecol {
+    width: 100%;
+    padding-top: 50px;
+    position: relative;
+}
+.txtandbtn {
+    text-align: center;
+}
+/*write of section end*/
+/*accordion start*/
+    .accordion_head {
+        font-size: 15px;
+        padding: 20px 13px;
+    }
+    section.questionsec h1{
+        font-size: 20px;
+    }
+    /*accordion end*/
+    .checkqualify.lastckp a {
+    background: #333333;
+    color: white;
+}
+/*footer start*/
+.logoandtextbox {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ffffff33;
+}
+.linknbox {
+    padding-top: 44px;
+}
+
+/*footer end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 28px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 16px;
+    }
+    h1.termsh1 {
+    font-size: 25px;
+}
+
+    /*================privacy policy page end==============*/
+
+
+}
+
+/*375-424*/
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+    
+        /*header start*/
+    
+    .col-xs-12.col-sm-6.leftimgcol {
+    display: none;
+}
+
+.col-xs-12.col-sm-6.rightcontentcol {
+    width: 100%;
+}
+
+.mobile_view_offer {
+    display: block;
+    height: 46%;
+    margin-top: 7px;
+    padding: 10px 25px;
+}
+.writeofcontent {
+    display: none;
+}
+.moblie-view-image {
+    display: block;
+    text-align: center;
+}
+.rightcontentbox h1{
+    text-align: center;
+    font-size: 20px;
+}
+.banner-graphic02, .banner-inner-graphic02{
+    display: none;
+}
+.moblie-view-image img {
+    width: 335px;
+    height: 397px;
+}
+.mobile_view_offer h2{
+    font-size: 30px;
+}
+.mobile_view_offer p{
+    font-size: 13px;
+}
+/*header end*/
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 17px;
+}
+.textdiv p {
+    font-size: 15px;
+    position: relative;
+}
+.row.debtrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.debtcol {
+    width: 100%;
+    text-align: center;
+}
+.textdiv {
+    padding-left: 0;
+    padding-top: 24px;
+}
+.checkqualify a{
+    background: #fc8e8f;
+    color: black;
+}
+section.debthelpsection{
+    padding-top: 55px;
+}
+/*debt help end*/
+/*mums debt start*/
+.mumsdebtbox h2{
+    font-size: 26px;
+    padding-bottom: 20px;
+}
+.mumsdebtbox p{
+    padding: 0px 0px;
+}
+
+/*mums debt end*/
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 11px;
+}
+p.descripp {
+    font-size: 18px;
+    color: #8e8e8e;
+    padding-bottom: 20px;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 16px;
+}
+span.number {
+    width: 45px;
+    height: 45px;
+    background: #ff9e9f;
+    font-size: 23px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+.row.threesteprow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.stepcol {
+    width: 100%;
+    padding-bottom: 44px;
+}
+/*three step end*/
+/*write of section start*/
+section.writeoff h1{
+    font-size: 14px;
+    padding-bottom: 0;
+}
+.fouritembox{
+    padding-left: 0;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 60px;
+    padding: 11px;
+}
+.choose_image{
+    width: 62px;
+}
+.fouritembox h2{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 32px;
+}
+.txtandbtn p{
+    position: relative;
+}
+.row.writofrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.writecol {
+    width: 100%;
+    padding-top: 50px;
+    position: relative;
+}
+.txtandbtn {
+    text-align: center;
+}
+/*write of section end*/
+
+/*accordion start*/
+    .accordion_head {
+        font-size: 16px;
+    }
+    section.questionsec h1{
+        font-size: 20px;
+    }
+    /*accordion end*/
+    .checkqualify.lastckp a {
+    background: #333333;
+    color: white;
+}
+/*footer start*/
+.logoandtextbox {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ffffff33;
+}
+.linknbox {
+    padding-top: 44px;
+}
+
+/*footer end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 27px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 14px;
+    }
+    .col-12.pad-none.terms-con a {
+    text-decoration: none;
+    color: #ff8d8e;
+    font-size: 12px;
+}
+.col-12.pad-none.terms-con ul li {
+    color: #8e8e8e;
+    font-size: 15px;
+}
+.col-12.pad-none.terms-con p {
+    font-size: 15px;
+}
+h1.termsh1 {
+    font-size: 22px;
+}
+
+    /*================privacy policy page end==============*/
+
+
+
+}
+
+/*320-374*/
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+    
+            /*header start*/
+    
+    .col-xs-12.col-sm-6.leftimgcol {
+    display: none;
+}
+
+.col-xs-12.col-sm-6.rightcontentcol {
+    width: 100%;
+}
+
+.mobile_view_offer {
+    display: block;
+    height: 48%;
+    margin-top: 7px;
+    padding: 10px 25px;
+}
+.writeofcontent {
+    display: none;
+}
+.moblie-view-image {
+    display: block;
+    text-align: center;
+}
+.rightcontentbox h1{
+    text-align: center;
+    font-size: 15px;
+}
+.banner-graphic02, .banner-inner-graphic02{
+    display: none;
+}
+.moblie-view-image img {
+    width: 294px;
+    height: 366px;
+}
+.mobile_view_offer h2{
+    font-size: 23px;
+}
+.mobile_view_offer p{
+    font-size: 13px;
+}
+.qualifybtn a{
+
+    padding: 19px 28px;
+}
+.mobile_view_offer img {
+    width: 64px;
+    margin-top: -40px;
+    text-align: center;
+}
+/*header end*/
+/*debt help start*/
+section.debthelpsection h1{
+    font-size: 17px;
+    line-height: 34px;
+}
+.textdiv p {
+    font-size: 15px;
+    position: relative;
+}
+.row.debtrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.debtcol {
+    width: 100%;
+    text-align: center;
+}
+.textdiv {
+    padding-left: 0;
+    padding-top: 24px;
+}
+.checkqualify a{
+    background: #fc8e8f;
+    color: black;
+}
+section.debthelpsection{
+    padding-top: 55px;
+}
+.imgdiv img {
+    width: 100%;
+}
+/*debt help end*/
+/*mums debt start*/
+.mumsdebtbox h2{
+    font-size: 23px;
+    padding-bottom: 20px;
+}
+.mumsdebtbox p{
+    padding: 0px 0px;
+}
+
+/*mums debt end*/
+/*threestep start*/
+.stepbox {
+    
+padding: 28px;
+    
+margin: 5px;
+}
+p.tittlepstep {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 11px;
+}
+p.descripp {
+    font-size: 16px;
+    color: #8e8e8e;
+    padding-bottom: 20px;
+}
+.loveimgdiv.loveno2 {
+    padding-bottom: 0px;
+    padding-top: 35px;
+}
+section.threestep h1{
+    font-size: 14px;
+}
+span.number {
+    width: 45px;
+    height: 45px;
+    background: #ff9e9f;
+    font-size: 23px;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    top: -22px;
+    line-height: 45px;
+    border-radius: 100%;
+    font-weight: bold;
+}
+.loveimgdiv img {
+    width: 56px;
+    position: relative;
+    z-index: 10;
+}
+.loveimgdiv:after{
+    width: 115px;
+    height: 76px;
+}
+.row.threesteprow {
+    display: block;
+}
+
+.col-xs-12.col-sm-4.stepcol {
+    width: 100%;
+    padding-bottom: 44px;
+}
+/*three step end*/
+/*write of section start*/
+section.writeoff h1{
+    font-size: 16px;
+    padding-bottom: 0;
+    line-height: 31px;
+}
+.fouritembox{
+    padding-left: 0;
+}
+.listimgbox img {
+    width: 100%;
+}
+.choose_image img {
+    width: 60px;
+    padding: 11px;
+}
+.choose_image{
+    width: 62px;
+}
+.fouritembox h2{
+    font-size: 15px;
+    padding-left: 20px;
+}
+.fouritembox.seconditem {
+    padding-top: 22px;
+}
+.txtandbtn p{
+    position: relative;
+}
+.row.writofrow {
+    display: block;
+}
+
+.col-xs-12.col-sm-6.writecol {
+    width: 100%;
+    padding-top: 50px;
+    position: relative;
+}
+.txtandbtn {
+    text-align: center;
+}
+
+/*write of section end*/
+/*accordion start*/
+    .accordion_head {
+        font-size: 16px;
+    }
+    section.questionsec h1{
+        font-size: 20px;
+    }
+    /*accordion end*/
+    .checkqualify.lastckp a {
+    background: #333333;
+    color: white;
+}
+
+/*footer start*/
+.logoandtextbox {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ffffff33;
+}
+.linknbox {
+    padding-top: 44px;
+}
+
+/*footer end*/
+/*===============privacy policy page start=============*/
+    .tittleprivcybox h1{
+        font-size: 24px;
+    }
+    .col-12.pad-none.terms-con h2{
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .col-12.pad-none.terms-con a {
+    text-decoration: none;
+    color: #ff8d8e;
+    font-size: 12px;
+}
+.col-12.pad-none.terms-con ul li {
+    color: #8e8e8e;
+    font-size: 15px;
+}
+.col-12.pad-none.terms-con p {
+    font-size: 15px;
+}
+h1.termsh1 {
+    font-size: 19px;
+}
+
+    /*================privacy policy page end==============*/
+
+
+}
